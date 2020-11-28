@@ -1,6 +1,6 @@
 From python:3.8
 
-MAINTAINER Shramik
+MAINTAINER Omark
 
 RUN pip install flask
 RUN pip install flask_restful
